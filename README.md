@@ -13,8 +13,8 @@ This repository is used to push this working MCPE LevelDB Jar to the jitpack.io 
 </repositories>
 
 <dependency>
-    <groupId>nl.itslars</groupId>
-    <artifactId>leveldb-mcpe</artifactId>
+    <groupId>com.github.MeItsLars</groupId>
+    <artifactId>LevelDB-MCPE</artifactId>
     <version>1.0.2</version>
 </dependency>
 ```
