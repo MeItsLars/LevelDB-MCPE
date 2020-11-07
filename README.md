@@ -9,6 +9,13 @@ ljyloo got a functioning MCPE LevelDB jar file: https://github.com/ljyloo/leveld
 
 This repository is used to push this working MCPE LevelDB Jar to the jitpack.io maven repository, under the following coordinates:
 ```xml
+<repositories>
+	<repository>
+	    <id>jitpack.io</id>
+	    <url>https://jitpack.io</url>
+	</repository>
+</repositories>
+
 <dependency>
     <groupId>nl.itslars</groupId>
     <artifactId>leveldb-mcpe</artifactId>
