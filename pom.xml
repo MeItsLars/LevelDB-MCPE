@@ -7,11 +7,4 @@
     <groupId>nl.itslars</groupId>
     <artifactId>leveldb-mcpe</artifactId>
     <version>1.0.0</version>
-         
-    <repositories>
-	<repository>
-	    <id>jitpack.io</id>
-	    <url>https://jitpack.io</url>
-	</repository>
-    </repositories>
 </project>
