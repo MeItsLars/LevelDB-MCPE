@@ -19,7 +19,7 @@ This repository is used to push this working MCPE LevelDB Jar to the jitpack.io 
 <dependency>
     <groupId>nl.itslars</groupId>
     <artifactId>leveldb-mcpe</artifactId>
-    <version>1.0</version>
+    <version>1.0.0</version>
 </dependency>
 ```
 
