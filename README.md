@@ -1,8 +1,10 @@
 # LevelDB-MCPE
-The leveldb.jar from https://github.com/ljyloo/leveldb/tree/master/jar
-LevelDB was originally made by Google.
-Dain made a Java wrapper library: https://github.com/dain/leveldb
+The leveldb.jar is from https://github.com/ljyloo/leveldb/tree/master/jar
+
+LevelDB was originally made by Google. Dain made a Java wrapper library: https://github.com/dain/leveldb
+
 Tinfoiled added MCPE functionality: https://github.com/tinfoiled/leveldb
+
 ljyloo got a functioning Jar file: https://github.com/ljyloo/leveldb
 
 This repository is used to push this working MCPE LevelDB Jar to the jitpack.io maven repository, under the following coordinates:
