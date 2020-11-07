@@ -19,4 +19,5 @@ This repository is used to push this working MCPE LevelDB Jar to the jitpack.io 
 </dependency>
 ```
 
-Credits for the LevelDB project go to Dain and Tinfoile
+I do NOT claim any ownership of the LevelDB project, original or Java wrapper.
+Credits for the LevelDB Java Wrapper go to Dain and Tinfoiled.
