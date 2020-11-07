@@ -6,10 +6,10 @@ Tinfoiled added ZLIB compression functionality: https://github.com/tinfoiled/lev
 This repository is used to push this working MCPE LevelDB Jar to the jitpack.io maven repository, under the following coordinates:
 ```xml
 <repositories>
-	<repository>
-	    <id>jitpack.io</id>
-	    <url>https://jitpack.io</url>
-	</repository>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
 </repositories>
 
 <dependency>
